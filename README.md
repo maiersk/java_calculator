@@ -2,4 +2,4 @@
 java实训周，gui计算器。
 
 拉取到本地
-运行Main.class 即可
+使用vscode运行调试Main.java 即可
