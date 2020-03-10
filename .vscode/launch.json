@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main_back",
+            "request": "launch",
+            "mainClass": "Main_back",
+            "projectName": "calculator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculato",
+            "request": "launch",
+            "mainClass": "Calculato",
+            "projectName": "calculator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculatortest",
+            "request": "launch",
+            "mainClass": "Calculatortest",
+            "projectName": "calculator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "calculator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "calculator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "calculator"
+        }
+    ]
+}
